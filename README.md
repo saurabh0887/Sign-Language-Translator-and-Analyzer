@@ -1,4 +1,4 @@
-# Sign Language Detector
+# Sign Language Translator and Analyzer
 A simple CNN project for detecting american sign language.
 Here, I have implemented CNN (Convolution Neural Network) using Keras.
 
